@@ -1,0 +1,27 @@
+{
+  "name": "twatt-api",
+  "version": "1.0.0",
+  "description": "testing oauth API Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumadiakhmad/twatt-api.git"
+  },
+  "keywords": [
+    "API",
+    "Twitter"
+  ],
+  "author": "Jumadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jumadiakhmad/twatt-api/issues"
+  },
+  "homepage": "https://github.com/jumadiakhmad/twatt-api#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "oauth": "^0.9.15"
+  }
+}
